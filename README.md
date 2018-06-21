@@ -1,11 +1,11 @@
 Reprocessing Experiments
 ---
 
-Clone this repo to get started with [Reprocessing](https://github.com/schmavery/reprocessing).
+Playing with reprocessing to learn it and ReasonML. I'm implementing some physics with the goal of replicating something similar to Super Smash Bros Melee. 
 
 ## How to
 ```
-git clone https://github.com/bsansouci/reprocessing-example.git
+git clone https://github.com/LaurencePutterman/reprocessing-experiments.git
 ```
 
 ### Install
